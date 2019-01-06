@@ -1,4 +1,4 @@
-##Library Challenge
+## Library Challenge
 In this app both the visitors and the library can see if a list of books is available, it also includes both the title and the author of the book. The library uses YML file to store these books where it can be easily checked if a book is available or not. The library also needs the visitors to check out books after finding the title they want. Depending on the time of the checkout the library needs the books to be returned within a month and gives the ability to the visitor to know which date to return the book.
 
 ### Technology Stack
