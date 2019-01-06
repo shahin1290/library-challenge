@@ -36,5 +36,4 @@ class Individual
        
         books_at_home
     end
-
 end
