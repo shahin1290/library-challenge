@@ -28,13 +28,3 @@ describe Individual do
 
 
 end
-
-describe Individual do
-
-
-    it 'see a list of books currently available in the library' do
-        expected_output = {title: 'Harry Potter'}
-        expect(Library.new.books).to eq expected_output
-    end
-
-end
